@@ -10,7 +10,7 @@ A sleek and modern **Admin Dashboard** with an elegant sidebar navigation and in
 
 ## 🌐 Live Demo
 
-🔗 [View Demo](#) *(Add your GitHub Pages link here)*
+🔗 [View Demo](#)
 
 ---
 
@@ -39,13 +39,13 @@ A sleek and modern **Admin Dashboard** with an elegant sidebar navigation and in
 ## 📸 Screenshots
 
 ### Sidebar Collapsed
-![Sidebar Collapsed](screenshot_collapsed.png)
+![Sidebar Collapsed](images/dashbored.png)
 
 ### Sidebar Expanded
-![Sidebar Expanded](screenshot_expanded.png)
+![Sidebar Expanded](images/dashbored_menu.png)
 
 ### Dashboard Overview
-![Dashboard View](screenshot_dashboard.png)
+![Dashboard View](images/responsive_dashboard.png)
 
 ---
 
