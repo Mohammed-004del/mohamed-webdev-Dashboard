@@ -10,7 +10,7 @@ A sleek and modern **Admin Dashboard** with an elegant sidebar navigation and in
 
 ## 🌐 Live Demo
 
-🔗 [View Demo](#)
+🔗 [View Demo](https://mohammed-004del.github.io/mohamed-webdev-Dashboard/)
 
 ---
 
