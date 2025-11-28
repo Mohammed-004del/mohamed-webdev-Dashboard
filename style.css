@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background: linear-gradient(#001 , #231133);
+    height: 100%;
+    display: flex;
+}
+.profile{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+.profile h2{
+    font-size: 20px;
+    text-transform: capitalize;
+    margin: 0 5px;
+}
+.image-box{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 2px solid white;
+    flex-shrink: 0;
+}
+.image-box img{
+    width: 100%;
+}
+.menu{
+    background: #231133;
+    height: 100vh;
+    width: 60px;
+    padding: 20px 5px;
+    overflow: hidden;
+    transition: 0.3s;
+}
+.menu:hover{
+    width: 260px;
+}
+.menu ul{
+    list-style: none;
+    position: relative;
+    height: 96%;
+}
+.menu ul li a{
+    display: block;
+    text-decoration: none;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    transition: 0.3s;
+}
+.menu ul li a:hover , .active a , .content-boxes .box:hover , td:hover{
+    background: #001;
+}
+.menu ul li a i{
+    font-size: 30px;
+}
+.menu ul li a p{
+    font-size: 20px;
+    margin: 0 5px;
+}
+.log-out{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.log-out a{
+    background: darkred;
+}
+.content{
+    width: 100%;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background: #231133;
+    margin: 10px;
+    border-radius: 8px;
+}
+.title p{
+    font-size: 20px;
+}
+.title i{
+    font-size: 20px;
+}
+.content-boxes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 0 10px;
+}
+.content-boxes .box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+    background: #123;
+    flex-basis: 150px;
+    height: 150px;
+    border-radius: 8px;
+    flex-grow: 1;
+}
+.content-boxes .box i{
+    font-size: 40px;
+}
+.content-boxes .box span{
+    font-size: 30px;
+}
+.content-boxes .box .box-text{
+    font-size: 20px;
+    text-align: center;
+}
+table{
+    width: 100%;
+    text-align: center;
+    border-spacing: 10px;
+}
+thead{
+    background: #231133;
+    
+}
+th , td{
+    font-size: 25px;
+    background: #123;
+    height: 40px;
+    border-radius: 8px;
+}
+th{
+    background: #231133;
+}
