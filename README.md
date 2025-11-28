@@ -1,6 +1,6 @@
 # 📊 Modern Admin Dashboard
 
-![Dashboard Banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=300&fit=crop)
+![Dashboard Banner](images/dashbored.png)
 
 ## 📖 About the Project
 
