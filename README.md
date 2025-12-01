@@ -45,7 +45,7 @@ A sleek and modern **Admin Dashboard** with an elegant sidebar navigation and in
 ![Sidebar Expanded](images/dashbord_menu.png)
 
 ### Dashboard view on mobile phones
-![Dashboard View](images/responsive_dashboard.png)
+![Dashboard View](images/dashbored_responsive.png)
 
 ---
 
